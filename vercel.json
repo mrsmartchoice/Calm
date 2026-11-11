@@ -1,1 +1,9 @@
+{
+"redirects": [
+{
+"source": "/(.*)",
+"destination": "/your file html"
+}
+]
+}
 
